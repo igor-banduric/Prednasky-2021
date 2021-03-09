@@ -1,0 +1,2 @@
+sk/euba/tajj/prednaska/gradle/Demo.java
+ sk.euba.tajj.prednaska.gradle.Demo
